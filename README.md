@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iyanu1396/notifications-page-main.git)
-- Live Site URL: [Add live site URL here](https://iyanus-notifications-page.netlify.app/)
+- Solution URL: [solution URL ](https://github.com/Iyanu1396/notifications-page-main.git)
+- Live Site URL: [live site URL](https://iyanus-notifications-page.netlify.app/)
 
 ## My process
 
@@ -54,5 +54,5 @@ more DOM manipulation practices......
 ## Author
 
 - Website - [Iyanu Codes](https://github.com/Iyanu1396)
-- Frontend Mentor - [@Iyanu1396](https://www.frontendmentor.io/profile/Iyanu1396)
-- Twitter - [@iyanu_codes](https://twitter.com/iyanu_codes)
+- Frontend Mentor - [Iyanu1396](https://www.frontendmentor.io/profile/Iyanu1396)
+- Twitter - [iyanu_codes](https://twitter.com/iyanu_codes)
